@@ -2,10 +2,11 @@
 
 ## Searcher
 
-Run the tests of the SearcherTests project. An exception is currently being thrown. Look at the stacktrace below:
+An exception is currently being thrown. Look at the stacktrace below:
 - What kind of an exception is being thrown? 
 - What other information is available in the stacktrace? 
 - Where should we look to fix the issue?
+- Fix the issue
 
 ### The Exception
 
