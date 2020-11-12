@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace NullReferenceExceptionExample
+namespace Searcher
 {
     public class DataRepository
     {

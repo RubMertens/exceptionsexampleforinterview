@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullReferenceExceptionExample", "NullReferenceExceptionExample\NullReferenceExceptionExample.csproj", "{50CFF45A-1CB6-44B5-8497-DF001A91A221}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searcher", "Searcher\Searcher.csproj", "{50CFF45A-1CB6-44B5-8497-DF001A91A221}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearcherTests", "SearcherTests\SearcherTests.csproj", "{46AFE87D-80C8-4A27-802C-0C40360B8FDE}"
 EndProject

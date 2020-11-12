@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace NullReferenceExceptionExample
+namespace Searcher
 {
     public class PersonNameSearcher
     {

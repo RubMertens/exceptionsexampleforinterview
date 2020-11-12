@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using NullReferenceExceptionExample;
+using Searcher;
 using NUnit.Framework;
 
 namespace SearcherTests

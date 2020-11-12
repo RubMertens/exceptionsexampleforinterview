@@ -1,4 +1,4 @@
-﻿namespace NullReferenceExceptionExample
+﻿namespace Searcher
 {
     public class Person
     {
