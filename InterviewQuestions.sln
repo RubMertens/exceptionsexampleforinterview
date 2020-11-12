@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searcher", "Searcher\Searcher.csproj", "{50CFF45A-1CB6-44B5-8497-DF001A91A221}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearcherTests", "SearcherTests\SearcherTests.csproj", "{46AFE87D-80C8-4A27-802C-0C40360B8FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameReport", "GameReport\GameReport.csproj", "{8717D9A6-A89F-49D4-B68B-3B8462614AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameReportTests", "GameReportTests\GameReportTests.csproj", "{E3E84A1B-0FCC-4510-AA23-3043DA230E1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,13 @@ Global
 		{46AFE87D-80C8-4A27-802C-0C40360B8FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46AFE87D-80C8-4A27-802C-0C40360B8FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46AFE87D-80C8-4A27-802C-0C40360B8FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8717D9A6-A89F-49D4-B68B-3B8462614AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8717D9A6-A89F-49D4-B68B-3B8462614AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8717D9A6-A89F-49D4-B68B-3B8462614AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8717D9A6-A89F-49D4-B68B-3B8462614AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E84A1B-0FCC-4510-AA23-3043DA230E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E84A1B-0FCC-4510-AA23-3043DA230E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E84A1B-0FCC-4510-AA23-3043DA230E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E84A1B-0FCC-4510-AA23-3043DA230E1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

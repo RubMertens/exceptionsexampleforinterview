@@ -16,3 +16,11 @@ System.NullReferenceException : Object reference not set to an instance of an ob
    at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
    at SearcherTests.PersonSearcherTests.ShouldReturnPeopleWithNames() in D:\InterviewQuestions\SearcherTests\PersonSearcherTests.cs:line 25
 ```
+
+## GameReport
+
+### Requirements
+Run the tests of the GameReportTests project. We have a failing requirement. Try to locate the problem and get the test green.
+
+### Technical issue
+The  `ScoreRepository` class has a vulnerability, how can we fix it?
