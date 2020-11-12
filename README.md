@@ -22,5 +22,7 @@ System.NullReferenceException : Object reference not set to an instance of an ob
 ### Requirements
 Run the tests of the GameReportTests project. We have a failing requirement. Try to locate the problem and get the test green.
 
-### Technical issue
-The  `ScoreRepository` class has a vulnerability, how can we fix it?
+### Code review
+- The `ScoreRepository` class has a vulnerability. Wich one and how can we fix it.
+- The `GameBuilder` class uses a `HashSet` and a `List`, why? There is also a `participantMap` variable, how does it work? Should we improve the `Player` class to enforce our design?
+
